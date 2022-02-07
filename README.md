@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">👋 I'm Oliver</h1>
 
-<!--
-**oliverbooth/oliverbooth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+- I make useless tools for useless people like myself
+- I'm making a game engine I think
+- It's not going well
+- But when does it ever?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverbooth&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=oliverbooth&theme=dark">
+</p>
