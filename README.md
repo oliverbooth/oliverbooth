@@ -1,12 +1,9 @@
-<h1 align="center">👋 I'm Oliver</h1>
+<h1 align="center">👋 I'm Oliver • Je suis Oliver</h1>
 
 <hr>
 
-- I make useless tools for useless people like myself
-- I'm making a game engine I think
-- It's not going well
-- But when does it ever?
-
+<p>🇬🇧 Coffee enthusiast with a love for all things tech. Tech enthusiast with a love for all things coffee.</p>
+<p>🇫🇷 Un passionné de café qui adore tout de la technologie. Un passionné de technologie qui adore tout du café.</p>
 <hr>
 
 <p align="center">
