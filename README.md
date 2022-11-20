@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm Oliver • Je suis Oliver</h1>
-<a rel="me" href="https://mastodon.olivr.me/@oliver" style="display:none;"><a>
+<p align="center">https://mastodon.olivr.me/@oliver</p>
 
 <hr>
 
