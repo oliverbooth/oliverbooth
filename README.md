@@ -7,7 +7,7 @@
 <p align="center">🇫🇷 Amateur de café passionné qui adore tout de la technologie. Passionné de technologie qui adore tout du café.</p>
 <p align="center"><img src="headshot_180x180_2023_rounded.png"></p>
 
-<h3 align="center">Find me at <a href="https://oliverbooth.dev">oliverbooth.dev</a></h3>
+<h3 align="center">Find me at <a href="https://booth">booth</a></h3>
 
 <hr>
 
